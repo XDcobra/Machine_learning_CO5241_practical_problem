@@ -1,1 +1,1 @@
-# Machine_learning_CO5241_pratical_problem
+# Machine_learning_CO5241_practical_problem
